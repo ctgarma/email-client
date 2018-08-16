@@ -4,6 +4,16 @@ Clone or Download Repo and run:
 
 npm install
 
+
+To start the program run :
+
+npm start
+
+To start the test suite run:
+
+npm test
+
+
 The project is using an .env file that contains the appropriate URL for the Email-services API. Please modify it accordingly.
 
 
