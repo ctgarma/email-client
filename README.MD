@@ -2,7 +2,7 @@
 
 
 
-An E-mail Client developed using Reactjs. It is used in tandem with my Email-services API
+An E-mail Client developed using Reactjs. It is used in tandem with my <a href="https://github.com/ctgarma/email-service">Email-services API</a>
 
 Clone or Download Repo and run:
 
