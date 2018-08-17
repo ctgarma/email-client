@@ -6,16 +6,16 @@ An E-mail Client developed using Reactjs. It is used in tandem with my <a href="
 
 Clone or Download Repo and run:
 
-npm install
+<strong>npm install</strong>
 
 
 To start the program run :
 
-npm start
+<strong>npm start</strong>
 
 To start the test suite run:
 
-npm test
+<strong>npm test</strong>
 
 
 The project is using an .env file that contains the appropriate URL for the Email-services API. Please modify it accordingly.
